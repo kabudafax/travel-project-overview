@@ -36,9 +36,7 @@ export function Content() {
         </div>
         <div className="timeline-end mb-10">
           <time className="font-mono italic">Usage Instructions</time>
-          <div className="text-lg font-black">
-            Travel-{">"}Select-{">"}Upload-{">"}Rewards
-          </div>
+          <div className="text-lg font-black">Travel-&gt;Select-&gt;Upload-&gt;-&gt;Rewards</div>
           Travel to famous scenic destinations, check in at iconic landmarks, upload check-in data, and earn official
           Mint NFT rewards. Also if you find a new cool spot, Don't hesitate to fill more information and checkin right
           away with photo and ratings. Then you can get rewards after the community vote on your sharings.

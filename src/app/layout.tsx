@@ -3,7 +3,8 @@ import { Inter } from "next/font/google";
 import Head from "next/head";
 import "./globals.css";
 // import "././cesium/Widgets/widgets.css";
-import "../../public/cesium/Widgets/widgets.css";
+// import "../../public/cesium/Widgets/widgets.css";
+import "cesium/Build/Cesium/Widgets/widgets.css";
 
 const inter = Inter({ subsets: ["latin"] });
 
